@@ -1,2 +1,1 @@
-# ArgoCD-Demo
-ArgoCD Tutorial  | GitOps CD for Kubernetes
+# ArgoCD Tutorial  | GitOps CD for Kubernetes
